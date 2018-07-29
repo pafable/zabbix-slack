@@ -9,7 +9,7 @@ SUBJECT = sys.argv[2]
 MSG = sys.argv[3]
 
 if SUBJECT == 'RECOVERY':
-        EMOJI = ':smile:'
+        EMOJI = ':heavy_check_mark:'
         COLOR = '#2de52d'
 elif SUBJECT == 'OK':
         EMOJI = ':smile:'
